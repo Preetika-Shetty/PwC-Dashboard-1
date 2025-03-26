@@ -13,4 +13,5 @@ Average speed of answer
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
 Outcome of data cleaning and visualzation:
-<img width="705" alt="image" src="https://github.com/user-attachments/assets/e3f2608a-3f58-4ef3-9b03-2fdd0b95bd63" />
+![Uploading image.png…]()
+
